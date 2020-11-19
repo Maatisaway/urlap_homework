@@ -1,0 +1,95 @@
+fieldset{
+  border: none;
+  margin: 25px;
+}
+
+legend{
+  font-size: 20px;
+  color: blue;
+  font-weight: bold;
+}
+
+input{
+  margin: 10px;
+}
+
+.name{
+  margin-left: 60px;
+}
+
+.email{
+  margin-left: 60px;
+}
+
+.password{
+  margin-left: 30px;
+}
+
+.phone{
+  margin-left: 40px;
+}
+
+.male{
+  margin-left: 50px;
+}
+
+.dob{
+  margin-top: 25px;
+}
+
+button{
+  margin-left: 100px;
+  margin: 20px;
+}
+
+a{
+  text-decoration: none;
+  color: blue;
+}
+
+.age{
+  margin-left: 35px;
+}
+
+.male2{
+  margin-left: 60px;
+}
+
+.address{
+  margin-left: 27px;
+}
+
+.jobs{
+  margin: 10px;
+  margin-left: 1px;
+}
+
+.bekuld{
+  margin: 25px;
+  margin-left: 100px;
+}
+
+.anitype{
+  margin-left: 55px;
+}
+
+.anigender{
+  margin-left: 60px;
+}
+
+.anicolor{
+  margin-left: 65px;
+}
+
+.aniweight{
+  margin-left: 65px;
+}
+
+.aniage{
+  margin-left: 40px;
+}
+
+.subbut{
+  margin: 25px;
+  margin-left: 50px;
+}
